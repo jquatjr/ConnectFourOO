@@ -1,3 +1,3 @@
-# ObjectOrientedProgramming
+# Connect Four Game Refactored
 
-Springboard exercise designed to assist in learning classes, keyword this, and more!
+Springboard exercise designed to assist in refactoring code so that we can learn "this".
